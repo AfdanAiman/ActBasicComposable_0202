@@ -18,7 +18,7 @@ Column(modifier = modifier.padding(top = 20.dp, start = 20.dp, end = 20.dp)) {
     Text(text = "Komponen2")
     Text(text = "Komponen3")
     Text(text = "Komponen4")
-    Text(text = "Komponen5")
+
     }
 }
 
