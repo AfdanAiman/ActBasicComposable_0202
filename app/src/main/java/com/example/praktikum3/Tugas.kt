@@ -23,7 +23,7 @@ import androidx.compose.ui.unit.sp
 @Composable
 fun HalamanLoginTugas(modifier: Modifier = Modifier) {
 
-    val bgImage = painterResource(id = R.drawable.hindianew)
+    val bgImage = painterResource(id = R.drawable.hindiaback)
     val logoUmy = painterResource(id = R.drawable.umyclean)
     val fotoBulat = painterResource(id = R.drawable.terbaru)
 
